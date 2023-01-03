@@ -11,19 +11,21 @@ Input: s = "()"
 Output: true
 
 ### Example 2:
-Input: s = "()[]{}" 
+Input: s = "()[]{}"  
 Output: true
 
 ### Example 3:
-Input: s = "(]" 
+Input: s = "(]"  
 Output: false
 
 ### Constraints:
-1 <= s.length <= 104 
+1 <= s.length <= 104  
 s consists of parentheses only '()[]{}'
 
 ## The Results of the Solutions
 
+### The Result of the SolutionOne:
 ![Solution One](./images/SolutionOne.jpg)
 
+### The Result of the SolutionTwo:
 ![Solution One](./images/SolutionTwo.jpg)
