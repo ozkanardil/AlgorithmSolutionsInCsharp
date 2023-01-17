@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeBuyAndSell", "..\Be
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "..\ValidParentheses\ValidParentheses.csproj", "{D02C2D53-CE6E-427F-AFEC-07D9062171A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPolindrom", "..\ValidPolindrom\ValidPolindrom.csproj", "{0D366CEF-B4CA-4E04-85BC-E66358D8EA66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidPolindrom", "..\ValidPolindrom\ValidPolindrom.csproj", "{0D366CEF-B4CA-4E04-85BC-E66358D8EA66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDublicate", "..\ContainsDublicate\ContainsDublicate.csproj", "{BEE45E46-AF44-43BD-8087-57DCD19AEA8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0D366CEF-B4CA-4E04-85BC-E66358D8EA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D366CEF-B4CA-4E04-85BC-E66358D8EA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D366CEF-B4CA-4E04-85BC-E66358D8EA66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE45E46-AF44-43BD-8087-57DCD19AEA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE45E46-AF44-43BD-8087-57DCD19AEA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE45E46-AF44-43BD-8087-57DCD19AEA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE45E46-AF44-43BD-8087-57DCD19AEA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
