@@ -11,7 +11,7 @@ But as I find the opportunity, I will continue to share solutions from easy to d
 [Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BestTimeBuyAndSell)  
 [Valid Parentheses (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidParentheses)  
 [Valid Polindrom (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidPolindrom)  
-
+[Contain Doblicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
