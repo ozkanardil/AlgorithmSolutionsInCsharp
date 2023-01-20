@@ -12,6 +12,7 @@ But as I find the opportunity, I will continue to share solutions from easy to d
 [Valid Parentheses (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidParentheses)  
 [Valid Polindrom (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidPolindrom)  
 [Contain Doblicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
+[Binary Search (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BinarySearch)  
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
