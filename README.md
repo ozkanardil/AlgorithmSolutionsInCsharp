@@ -11,9 +11,12 @@ But as I find the opportunity, I will continue to share solutions from easy to d
 [Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BestTimeBuyAndSell)  
 [Valid Parentheses (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidParentheses)  
 [Valid Polindrom (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidPolindrom)  
-[Contain Doblicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
+[Contain Dublicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
 [Binary Search (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BinarySearch)  
 [Valid Anagram (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidAnagram)  
+[Running Sum of 1d Array (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/RunningSumOfOneDArray)  
+[Find Pivot Index of the Array (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/FindPivotIndex)  
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
