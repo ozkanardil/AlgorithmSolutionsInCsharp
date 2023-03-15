@@ -7,6 +7,10 @@ I solve these questions in my spare time and believe me I am very busy.
 So it's a slow growing repo.  
 But as I find the opportunity, I will continue to share solutions from easy to difficult.
 
+#MEDIUM QUESTIONS#
+[Group Anagram (Medium)] (https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/GroupAnagrams) 
+
+#EASY QUESTIONS#
 [Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BestTimeBuyAndSell)  
 [Binary Search (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BinarySearch)  
 [Contain Dublicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
@@ -18,6 +22,8 @@ But as I find the opportunity, I will continue to share solutions from easy to d
 [Valid Anagram (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidAnagram)  
 [Valid Parentheses (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidParentheses)  
 [Valid Polindrom (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidPolindrom)  
+
+
 
 
 
