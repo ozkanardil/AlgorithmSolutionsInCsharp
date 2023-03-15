@@ -10,6 +10,8 @@ But as I find the opportunity, I will continue to share solutions from easy to d
 #MEDIUM QUESTIONS#
 [Group Anagram (Medium)] (https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/GroupAnagrams) 
 
+[Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/GroupAnagrams)
+
 #EASY QUESTIONS#
 [Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BestTimeBuyAndSell)  
 [Binary Search (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BinarySearch)  
