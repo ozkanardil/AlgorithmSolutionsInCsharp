@@ -8,9 +8,7 @@ So it's a slow growing repo.
 But as I find the opportunity, I will continue to share solutions from easy to difficult.
 
 #MEDIUM QUESTIONS#
-[Group Anagram (Medium)] (https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/GroupAnagrams) 
-
-[Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/GroupAnagrams)
+[Group Anagram (Medium)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/GroupAnagrams)  
 
 #EASY QUESTIONS#
 [Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BestTimeBuyAndSell)  
