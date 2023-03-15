@@ -7,17 +7,19 @@ I solve these questions in my spare time and believe me I am very busy.
 So it's a slow growing repo.  
 But as I find the opportunity, I will continue to share solutions from easy to difficult.
 
-[Two Sum (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/TwoSum)  
 [Best Time Buy and Sell (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BestTimeBuyAndSell)  
-[Valid Parentheses (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidParentheses)  
-[Valid Polindrom (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidPolindrom)  
-[Contain Dublicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
 [Binary Search (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/BinarySearch)  
-[Valid Anagram (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidAnagram)  
-[Running Sum of 1d Array (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/RunningSumOfOneDArray)  
+[Contain Dublicate (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ContainsDublicate)  
 [Find Pivot Index of the Array (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/FindPivotIndex)  
 [Isomorphic Strings (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/IsomorphicStrings)  
+[Running Sum of 1d Array (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/RunningSumOfOneDArray)  
 [Subsequence (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/Subsequence)  
+[Two Sum (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/TwoSum)  
+[Valid Anagram (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidAnagram)  
+[Valid Parentheses (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidParentheses)  
+[Valid Polindrom (Easy)](https://github.com/ozkanardil/AlgorithmSolutionsInCsharp/tree/main/src/ValidPolindrom)  
+
+
 
 
 <!--START_SECTION:waka-->
