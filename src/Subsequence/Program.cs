@@ -8,3 +8,8 @@ string s = "aaaaaa";
 string t = "bbaaaa";
 var result = MyClass.IsSubsequence(s, t);
 Console.WriteLine(result);
+
+record MyRecord
+{
+
+}

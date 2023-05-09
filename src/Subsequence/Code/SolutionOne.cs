@@ -14,7 +14,7 @@ namespace Subsequence.Code
             foreach (var item in s)
             {
                 int exist = t.IndexOf(item, pointer == 0 ? 0 : pointer + 1);
-
+              
                 if (exist == -1)
                     return false;
 
